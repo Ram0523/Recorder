@@ -1,0 +1,8 @@
+module Recorder
+typeinfo appRecorder.qmltypes
+prefer :/qt/qml/Recorder/
+Main 1.0 Main.qml
+Audio 1.0 Audio.qml
+Video 1.0 Video.qml
+Sidebar 1.0 Sidebar.qml
+

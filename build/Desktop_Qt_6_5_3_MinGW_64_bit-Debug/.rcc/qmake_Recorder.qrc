@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Recorder">
+    <file alias="qmldir">C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Recorder/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-12dc9c3d8556ef9686c4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Recorder",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-efa0f0fdc1e239785211.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-cf4bee6d78c054028ac9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c5950d237488232064ca.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-7282624a1a53aa252633.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder-Debug-5923d68cb3a8503bae8f.json",
+					"name" : "appRecorder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_autogen-Debug-36e6954fae4faf0af042.json",
+					"name" : "appRecorder_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_autogen_timestamp_deps-Debug-c1bbdd5baf82c1511dad.json",
+					"name" : "appRecorder_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmlimportscan-Debug-5f3f48d8ebdffa72f523.json",
+					"name" : "appRecorder_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmllint-Debug-242df09fce641cf4c006.json",
+					"name" : "appRecorder_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmllint_json-Debug-731cb73bb29e99ea3206.json",
+					"name" : "appRecorder_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmllint_module-Debug-04991c236de222c74433.json",
+					"name" : "appRecorder_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmltyperegistration-Debug-313df37b36e70d13e540.json",
+					"name" : "appRecorder_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_tooling-Debug-aca3a4749b467b5d4154.json",
+					"name" : "appRecorder_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Ram Mourya/Desktop/workspace/Recorder"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

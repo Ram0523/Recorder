@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Ram Mourya/Desktop/workspace/Recorder
+-cmake-output
+-output-file
+C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appRecorder.cmake
+-importPath
+C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Recorder
+-importPath
+C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.5.3/mingw_64/./qml
+-qrcFiles
+C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmake_Recorder.qrc
+C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/appRecorder_raw_qml_0.qrc

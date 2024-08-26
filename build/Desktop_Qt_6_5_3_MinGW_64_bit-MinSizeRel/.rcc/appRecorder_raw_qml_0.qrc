@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Recorder/">
+    <file alias="Main.qml">C:/Users/Ram Mourya/Desktop/workspace/Recorder/Main.qml</file>
+    <file alias="Audio.qml">C:/Users/Ram Mourya/Desktop/workspace/Recorder/Audio.qml</file>
+    <file alias="Video.qml">C:/Users/Ram Mourya/Desktop/workspace/Recorder/Video.qml</file>
+  </qresource>
+</RCC>
+

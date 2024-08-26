@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-c9b68a937e18113ca566.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Recorder",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-MinSizeRel-efa0f0fdc1e239785211.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-MinSizeRel-cf4bee6d78c054028ac9.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-MinSizeRel-c5950d237488232064ca.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-MinSizeRel-7282624a1a53aa252633.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder-MinSizeRel-8057ed3d67b58b684e5a.json",
+					"name" : "appRecorder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_autogen-MinSizeRel-cc9f089ea31df8c1ece6.json",
+					"name" : "appRecorder_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_autogen_timestamp_deps-MinSizeRel-2751757fc3619138d034.json",
+					"name" : "appRecorder_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmlimportscan-MinSizeRel-14216269773f28a4c5e5.json",
+					"name" : "appRecorder_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmllint-MinSizeRel-4a59a709462939a9791e.json",
+					"name" : "appRecorder_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmllint_json-MinSizeRel-b5308525882568b199ff.json",
+					"name" : "appRecorder_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmllint_module-MinSizeRel-7ba7d8dc972f21dfa2ce.json",
+					"name" : "appRecorder_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_qmltyperegistration-MinSizeRel-9811f34484b9d5dead8e.json",
+					"name" : "appRecorder_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appRecorder_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appRecorder_tooling-MinSizeRel-3e807293810ae022b702.json",
+					"name" : "appRecorder_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Ram Mourya/Desktop/workspace/Recorder/build/Desktop_Qt_6_5_3_MinGW_64_bit-MinSizeRel",
+		"source" : "C:/Users/Ram Mourya/Desktop/workspace/Recorder"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

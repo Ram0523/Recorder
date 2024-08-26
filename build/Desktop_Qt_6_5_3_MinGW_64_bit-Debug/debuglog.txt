@@ -1,0 +1,36 @@
+Wed Aug 21 10:51:48 2024 - Debug: Initializing AudioRecorder...
+Wed Aug 21 10:51:48 2024 - Debug: AudioRecorder initialized.
+Wed Aug 21 10:51:48 2024 - Debug: Default audio input: "External Microphone (Realtek(R) Audio)"
+Wed Aug 21 10:51:48 2024 - Debug: MediaRecorder initial error state: QMediaRecorder::NoError
+Wed Aug 21 10:51:48 2024 - Debug: CaptureSession audio input: Set
+Wed Aug 21 10:51:48 2024 - Debug: CaptureSession recorder: Set
+Wed Aug 21 10:51:48 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:151:29: QML Rectangle: The current style does not support customization of this control (property: "background" item: QQuickRectangle(0x138718b8e70, parent=0x0, geometry=0,0 0x0)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:51:48 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:117:29: QML Rectangle: The current style does not support customization of this control (property: "background" item: QQuickRectangle(0x138718b9110, parent=0x0, geometry=0,0 0x0)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:51:48 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:144:30: QML QQuickText: The current style does not support customization of this control (property: "contentItem" item: QQuickText(0x138718ba5e0, parent=0x0, geometry=0,0 0x0 ⏿)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:51:48 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:110:30: QML QQuickText: The current style does not support customization of this control (property: "contentItem" item: QQuickText(0x138718ba220, parent=0x0, geometry=0,0 0x0 ⏿)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:51:51 2024 - Debug: Start button clicked
+Wed Aug 21 10:51:51 2024 - Debug: Output path: file:///C:/Users/Ram Mourya/Documents/audio.mp4
+Wed Aug 21 10:51:51 2024 - Debug: Setting output location to: "file:file:///C:/Users/Ram Mourya/Documents/audio.mp4"
+Wed Aug 21 10:51:51 2024 - Debug: Output location after setting: "file:file:///C:/Users/Ram Mourya/Documents/audio.mp4"
+Wed Aug 21 10:51:51 2024 - Debug: MediaRecorder error before recording: QMediaRecorder::NoError
+Wed Aug 21 10:51:51 2024 - Debug: MediaRecorder output location: "file:file:///C:/Users/Ram Mourya/Documents/audio.mp4"
+Wed Aug 21 10:51:51 2024 - Debug: Audio input description: "External Microphone (Realtek(R) Audio)"
+Wed Aug 21 10:51:51 2024 - Debug: Starting recording...
+Wed Aug 21 10:54:30 2024 - Debug: Initializing AudioRecorder...
+Wed Aug 21 10:54:31 2024 - Debug: AudioRecorder initialized.
+Wed Aug 21 10:54:31 2024 - Debug: Default audio input: "External Microphone (Realtek(R) Audio)"
+Wed Aug 21 10:54:31 2024 - Debug: MediaRecorder initial error state: QMediaRecorder::NoError
+Wed Aug 21 10:54:31 2024 - Debug: CaptureSession audio input: Set
+Wed Aug 21 10:54:31 2024 - Debug: CaptureSession recorder: Set
+Wed Aug 21 10:54:31 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:151:29: QML Rectangle: The current style does not support customization of this control (property: "background" item: QQuickRectangle(0x2b7778f6030, parent=0x0, geometry=0,0 0x0)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:54:31 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:117:29: QML Rectangle: The current style does not support customization of this control (property: "background" item: QQuickRectangle(0x2b7778f6d50, parent=0x0, geometry=0,0 0x0)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:54:31 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:144:30: QML QQuickText: The current style does not support customization of this control (property: "contentItem" item: QQuickText(0x2b777cb8c00, parent=0x0, geometry=0,0 0x0 ⏿)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:54:31 2024 - Warning: qrc:/qt/qml/Recorder/Main.qml:110:30: QML QQuickText: The current style does not support customization of this control (property: "contentItem" item: QQuickText(0x2b777cb8ed0, parent=0x0, geometry=0,0 0x0 ⏿)). Please customize a non-native style (such as Basic, Fusion, Material, etc). For more information, see: https://doc.qt.io/qt-6/qtquickcontrols2-customize.html#customization-reference
+Wed Aug 21 10:54:33 2024 - Debug: Start button clicked
+Wed Aug 21 10:54:33 2024 - Debug: Output path: file:///C:/Users/Ram Mourya/Documents/audio.mp4
+Wed Aug 21 10:54:33 2024 - Debug: Setting output location to: "file:file:///C:/Users/Ram Mourya/Documents/audio.mp4"
+Wed Aug 21 10:54:33 2024 - Debug: Output location after setting: "file:file:///C:/Users/Ram Mourya/Documents/audio.mp4"
+Wed Aug 21 10:54:33 2024 - Debug: MediaRecorder error before recording: QMediaRecorder::NoError
+Wed Aug 21 10:54:33 2024 - Debug: MediaRecorder output location: "file:file:///C:/Users/Ram Mourya/Documents/audio.mp4"
+Wed Aug 21 10:54:33 2024 - Debug: Audio input description: "External Microphone (Realtek(R) Audio)"
+Wed Aug 21 10:54:33 2024 - Debug: Starting recording...

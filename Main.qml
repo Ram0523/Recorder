@@ -37,13 +37,13 @@ Window {
 
         Image {
             id: img1
-            source: "file:///C:/Users/Ram Mourya/Downloads/dark1.5a4726e8.svg"
+            source: "file:///E:/workspace/Recorder/Images/dark1.5a4726e8.svg"
             anchors.left: parent.left
         }
 
         Image {
             id: img2
-            source: "file:///C:/Users/Ram Mourya/Downloads/dark3.cab45a05.svg"
+            source: "file:///E:/workspace/Recorder/Images/dark3.cab45a05.svg"
             anchors.right: parent.right
             anchors.top: parent.top
             anchors.topMargin: parent.height * 0.2

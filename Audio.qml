@@ -16,7 +16,7 @@ Rectangle {
 
         Image {
             id: imgW
-            source: "file:///C:/Users/Ram Mourya/Downloads/Sound-Wave-Transparent.png"
+            source: "file:///E:/workspace/Recorder/Images/Sound-Wave-Transparent.png"
             anchors.fill: parent
             fillMode: Image.PreserveAspectFit
         }
